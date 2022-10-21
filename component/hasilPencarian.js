@@ -79,14 +79,14 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "white",
     fontSize: 20,
-    fontWeight: 600,
+    fontWeight: "600",
     marginBottom: 10,
   },
   textHeader2: {
     textAlign: "center",
     color: "white",
     fontSize: 16,
-    fontWeight: 400,
+    fontWeight: "400",
   },
   box2: {
     flex: 5,
@@ -114,20 +114,20 @@ const styles = StyleSheet.create({
   },
   textShowbox1: {
     fontSize: 18,
-    fontWeight: 600,
+    fontWeight: "600",
   },
   iconshowbox2: {
     flexDirection: "row",
   },
   textBold: {
     fontSize: 16,
-    fontWeight: 800,
+    fontWeight: "800",
     marginLeft: 10,
     marginTop: 5,
   },
   textBlue: {
     fontSize: 16,
-    fontWeight: 600,
+    fontWeight: "600",
     marginTop: 5,
     color: "blue",
   },

@@ -4,7 +4,7 @@
   "expoServerPort": 19000,
   "packagerPort": 19000,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://t4-rfk.marshall-ramdhani.tugas-3-pam.exp.direct",
+  "packagerNgrokUrl": "https://t4-rfk.marshall-ramdhani.tugas-3-pam.exp.direct",
+  "ngrokPid": 16436
 }

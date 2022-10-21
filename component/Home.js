@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   headerText: {
     color: "#fff",
     fontSize: 20,
-    fontWeight: 700,
+    fontWeight: "700",
     textAlign: "center",
     marginTop: 40,
   },
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   textInput: {
-    fontWeight: 700,
+    fontWeight: "700",
     fontSize: 16,
   },
   input: {
