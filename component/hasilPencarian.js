@@ -59,7 +59,7 @@ const HasilScreen = ({ route, navigation }) => {
           <ScrollView>{tampil}</ScrollView>
         </SafeAreaView>
         <Text style={{ textAlign: "center", paddingTop: 20 }}>
-          Copyright M. Riski Aziz | 119140160
+          Copyright Marshall Ramdhani | 120140017
         </Text>
       </View>
     </View>
